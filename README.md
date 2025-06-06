@@ -1,1 +1,5 @@
-# netflix-clone2
+NETFLIX CLONE
+
+  This is a Netflix Clone created using HTML, CSS, and JavaScript. It replicates the basic front-end layout and functionality of Netflix’s homepage.
+  
+  
